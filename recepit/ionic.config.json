@@ -1,0 +1,8 @@
+{
+  "name": "recepit",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "cc3770d7"
+}
