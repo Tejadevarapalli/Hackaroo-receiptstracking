@@ -9,18 +9,24 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { File} from '@ionic-native/file/ngx';
 import { FilePath} from '@ionic-native/file-path/ngx';
+import { HttpClientModule} from '@angular/common/http';
+import { WebView} from '@ionic-native/ionic-webview/ngx';
+import { IonicStorageModule } from '@ionic/storage';
+
 
 @NgModule({
   declarations: [AppComponent],
   entryComponents: [],
   imports: [
     BrowserModule,
+    HttpClientModule,
     IonicModule.forRoot(),
+    IonicStorageModule.forRoot(),
     AppRoutingModule
   ],
   providers: [
     StatusBar,
-    SplashScreen, File , Camera, FilePath,
+    SplashScreen, File , Camera, FilePath, WebView,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]

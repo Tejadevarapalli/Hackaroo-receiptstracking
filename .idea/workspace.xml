@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaca1874-4b99-4d9e-9298-5cb60065d345" name="Default Changelist" comment="" />
+    <list default="true" id="eaca1874-4b99-4d9e-9298-5cb60065d345" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recepit/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/recepit/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recepit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/recepit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recepit/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recepit/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recepit/src/app/home/home.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/recepit/src/app/home/home.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recepit/src/app/home/home.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recepit/src/app/home/home.page.ts" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,54 +21,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recepit/src/app/list/list.page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recepit/src/app/home/home.page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#ion-content#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recepit/src/app/home/home.page.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1105">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recepit/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recepit/src/app/app.module.ts">
+        <entry file="file://$PROJECT_DIR$/recepit/src/app/home/home.page.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="17">
+              <caret line="124" column="5" lean-forward="true" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#67#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +46,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Transfer</find>
+      <find>pathforImage</find>
+      <find>is</find>
+      <find>my_images</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,7 +133,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/ase/backend" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="D:\github\Hackaroo-receiptstracking\recepit\node_modules\tslint" />
@@ -186,24 +163,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554581923378</updated>
-      <workItem from="1554581924548" duration="18435000" />
+      <workItem from="1554581924548" duration="30160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18435000" />
+    <option name="totallyTimeSpent" value="30160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -275,26 +252,6 @@
         <state relative-caret-position="-316" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recepit/src/app/home/home.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#ion-content#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recepit/src/app/home/home.page.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1105">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recepit/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -302,12 +259,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/recepit/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/recepit/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="296">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recepit/src/app/home/home.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recepit/src/app/home/home.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="124" column="5" lean-forward="true" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
